@@ -1,0 +1,14 @@
+{
+  "name": "hopjs-common",
+  "version": "0.0.4",
+  "description": "hopjs common utilities",
+  "main": "index.js",
+  "keywords": [
+    "hopjs"
+  ],
+  "engine": "node 0.8.9",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/celer/hopjs-oauth.git"
+  }
+}
