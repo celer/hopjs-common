@@ -9,6 +9,6 @@
   "engine": "node 0.8.9",
   "repository": {
     "type": "git",
-    "url": "https://github.com/celer/hopjs-oauth.git"
+    "url": "https://github.com/celer/hopjs-common.git
   }
 }
