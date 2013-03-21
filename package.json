@@ -1,6 +1,6 @@
 {
   "name": "hopjs-common",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "hopjs common utilities",
   "main": "index.js",
   "keywords": [
